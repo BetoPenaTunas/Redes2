@@ -1,0 +1,15 @@
+menu\MainClie.class
+subirArchivos\sockets\CEnvia.class
+menu\MainServ.class
+subirArchivos\sockets\main\MainCliente.class
+subirCarpetas\main\MainClienteCarpeta.class
+subirCarpetas\main\MainServidorCarpeta.class
+subirCarpetas\CEnviaCarpeta.class
+subirCarpetas\SRecibeCarpeta.class
+subirArchivos\sockets\main\MainServidor.class
+menu\Servidor.class
+menu\Servidor8001.class
+subirArchivos\sockets\SRecibe.class
+subirCarpetas\Path.class
+menu\Cliente.class
+subirCarpetas\FilesArray.class
